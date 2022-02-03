@@ -9,7 +9,6 @@ bin-release/
 /Build
 *.sln
 
-
 # Other files and folders
 .settings/
 
