@@ -3,6 +3,12 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+/Saved
+/Intermediate
+/.vs
+/Build
+*.sln
+
 
 # Other files and folders
 .settings/
